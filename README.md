@@ -1,1 +1,1 @@
-# FlashyMind_appMB
+Bảo Ngọc thực hiện công việc thiết kế database
