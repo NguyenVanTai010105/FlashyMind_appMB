@@ -1,1 +1,1 @@
-# FlashyMind_appMB
+Khải Update chức năng nhắc nhở người dùng
