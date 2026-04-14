@@ -63,3 +63,4 @@ Chờ Android Studio tự động tải xuống các thư viện và đồng b�
 
 4. Chạy ứng dụng:
 Kết nối thiết bị Android (hoặc sử dụng Emulator) và nhấn nút Run (Shift + F10).
+Bảo Ngọc thực hiện modify file README.md
