@@ -54,7 +54,7 @@ Dự án được xây dựng dựa trên các tiêu chuẩn mới nhất của 
 
 1. **Clone repository:**
    ```bash
-   git clone [https://github.com/your-username/FlashyMind.git](https://github.com/your-username/FlashyMind.git)
+   git clone [https://github.com/NguyenVanTai010105/FlashyMind_appMB](https://github.com/NguyenVanTai010105/FlashyMind_appMB.git)
    Mở dự án:
 2. Mở Android Studio (khuyến nghị phiên bản mới nhất hỗ trợ Compose 1.5+). Chọn File > Open và trỏ tới thư mục dự án vừa clone.
 
@@ -63,4 +63,3 @@ Chờ Android Studio tự động tải xuống các thư viện và đồng b�
 
 4. Chạy ứng dụng:
 Kết nối thiết bị Android (hoặc sử dụng Emulator) và nhấn nút Run (Shift + F10).
-Bảo Ngọc thực hiện modify file README.md
